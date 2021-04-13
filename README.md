@@ -15,7 +15,7 @@ Project Team
 
 Partners
  -------
-[Bergex](https://www.bergfex.com/) is a company that provides a wide range of information about mountains (such as mountain activities, weather information, accommodation options etc.).
+[Bergfex](https://www.bergfex.com/) is a company that provides a wide range of information about mountains (such as mountain activities, weather information, accommodation options etc.).
 
 Project description
 -------------------
