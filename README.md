@@ -48,10 +48,10 @@ As the final outcome of this project, we created two Tableau Public file (####li
 
 Example plots
 ---------
-![](/screen_shots/map.jpeg)
-![](/screen_shots/bar_chart.jpeg)
-![](/screen_shots/line_plot.jpeg)
-![](/screen_shots/text_table.jpeg)
+![](/screen_shots/map.jpg)
+![](/screen_shots/bar_chart.jpg)
+![](/screen_shots/line_plot.jpg)
+![](/screen_shots/text_table.jpg)
 
 Requirements
 ------------
