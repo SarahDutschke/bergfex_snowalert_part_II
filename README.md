@@ -48,9 +48,17 @@ As the final outcome of this project, we created two Tableau Public file (####li
 
 Example plots
 ---------
+
+Map
 ![](/screen_shots/map.jpg)
+
+Bar Chart
 ![](/screen_shots/bar_chart.jpg)
+
+Line Plot
 ![](/screen_shots/line_plot.jpg)
+
+Text Table
 ![](/screen_shots/text_table.jpg)
 
 Requirements
@@ -64,7 +72,7 @@ XXX to update
   
 Repository Structure
 ------------
-├── README.md       <- top-level README file for anybody interested in this project
-├── data                     <- csv file, created based part I of the [project](https://github.com/SarahDutschke/bergfex_snow_alert_part_I)
+├── README.md           <- top-level README file for anybody interested in this project
+├── data                <- csv file, created based part I of the [project](https://github.com/SarahDutschke/bergfex_snow_alert_part_I)
 ├── notebooks           <- notebook for the data preparation
 
