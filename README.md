@@ -19,8 +19,8 @@ Partners
 
 Project description
 -------------------
-Planning hikes in winter time can be complicated in Switzerland. Sometimes hiking in the snow is an exciting adventure, but it can also be an unexpected surprise. In part I of our project, we webscraped information of the different mountain activities and added information on current snow levels based on geospatial weather data. 
-In this project, we focus on the visualization of such data with Tableau, making the selection of the right activity more userfriendly.
+Planning hikes in winter time can be complicated in Switzerland. Sometimes hiking in the snow is an exciting adventure, but it can also be an unexpected surprise. In part I of our project, we web-scraped information of the different mountain activities and added information on current snow levels based on geospatial weather data. 
+In this project, we focus on the visualisation of such data with Tableau, making the selection of the right activity more user-friendly.
 
 Project Milestones
 -------------------
@@ -28,24 +28,30 @@ Project Milestones
 Luckily, we have scraped, cleaned the information in part I of our project. However, for certain plots (line chart), we need to prepare the data in a different format. We take advantage of Python for a quick rearrangement in a Jupyter Notebook.
 
 ### Milestone 1
-Creating single charts of interests in Tableau.
+We have created a How-to Tutorial for:
+ - Creating single charts of interests in Tableau.
+ - Creating an interactive dashboard in Tableau.
+ - Formatting charts and dashboard in Tableau.
 
  ### Milestone 2
- Creating an interactive dashboard in Tableau.
+We have created project with a statistical analysis of our web-scraped data:
+ - 
+ - 
+ - 
  
- ### Milestone 3
-Formatting charts and dashboard in Tableau.
 
 Outcomes
 ---------
-As the final outcome of this project, we created a Tableau Public file (####link).
+As the final outcome of this project, we created two Tableau Public file (####link).
+![](/screen_shots/story.jpeg)
 ![](/screen_shots/dashboard.jpeg)
 
 Example plots
 ---------
 ![](/screen_shots/map.jpeg)
-![](/screen_shots/stats.jpeg)
+![](/screen_shots/bar_chart.jpeg)
 ![](/screen_shots/line_plot.jpeg)
+![](/screen_shots/text_table.jpeg)
 
 Requirements
 ------------
