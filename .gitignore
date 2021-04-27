@@ -130,4 +130,5 @@ dmypy.json
 
 # MyIgnoredFiles
 screen_shots_story/
-
+data/before/
+notebooks/before/
