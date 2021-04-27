@@ -1,10 +1,12 @@
 # bergfex_snowalert_part_II
-Part II of this project focusses on the visualisation of webscraped data through Tableau.
+Part II of this project focusses on the visualisation of web-scraped data through Tableau.
 
+![](/screen_shots/dashboard.jpg)
 ![](/screen_shots/Tableau_teaser.png)
 
-This repository showcases the visualization of data obtained and prepared in our part I repository where we webscraped the Bergfex webpage (mountain sports information webpage) adding snow level information to each activity. It was elaborated by Malwina San José and Sarah Dutschke. 
-We use TableauPublic for creating single plots, dashboards and stories.###### 
+This repository showcases the visualisation of data obtained and prepared in our part I repository where we web-scraped the Bergfex webpage (mountain sports information webpage) adding snow level information to each activity. It was elaborated by Malwina San José and Sarah Dutschke. 
+We use TableauPublic for creating single plots, dashboards and stories.
+
 The information presented here is not approved for any kind of commercial use.
 
 Project Team
@@ -25,10 +27,10 @@ In this project, we focus on the visualisation of such data with Tableau, making
 Project Milestones
 -------------------
 ### Data Preparation
-Luckily, we have scraped, cleaned the information in part I of our project. However, for certain plots (line chart), we need to prepare the data in a different format. We take advantage of Python for a quick rearrangement in a Jupyter Notebook.
+Luckily, we have scraped, cleaned the information in part I of our project. However, for certain plots (line chart), we need to prepare the data in a different format. We take advantage of Python for a quick rearrangement of the data in a Jupyter Notebook.
 
 ### Milestone 1
-We have created a How-to Tutorial for:
+We have created a How-to Tutorial (story) for building a "Trail Selector" Dashboard:
  - Creating single charts of interests in Tableau.
  - Creating an interactive dashboard in Tableau.
  - Formatting charts and dashboard in Tableau.
@@ -42,9 +44,15 @@ We have created project with a statistical analysis of our web-scraped data:
 
 Outcomes
 ---------
-As the final outcome of this project, we created two Tableau Public file (####link).
-![](/screen_shots/story.jpeg)
-![](/screen_shots/dashboard.jpeg)
+As the final outcome of this project, we created two Tableau Public files, accessible here:
+- [How-To Tutorial](https://www.linkedin.com/in/sarah-dutschke/) 
+- [Simple Stats](https://www.linkedin.com/in/malwina-san-josé/)
+
+How-To Tutorial
+![](/screen_shots/story.jpg)
+
+Dashboard of Trail Selector
+![](/screen_shots/dashboard.jpg)
 
 Example plots
 ---------
@@ -72,7 +80,9 @@ XXX to update
   
 Repository Structure
 ------------
-├── README.md           <- top-level README file for anybody interested in this project
-├── data                <- csv file, created based part I of the [project](https://github.com/SarahDutschke/bergfex_snow_alert_part_I)
-├── notebooks           <- notebook for the data preparation
-
+    ├── README.md           <- top-level README file for anybody interested in this project
+    ├── data                <- csv file, created based part I of the [project](https://github.com/SarahDutschke/bergfex_snow_alert_part_I)
+    ├── notebooks           <- notebook, needed for the data preparation in Milestone 1
+    ├── screen_shots	   <- screenshots of the Tableau workbooks
+    ├── environment.yml     <- environment file that lists the channels and dependencies needed for this project
+    ├── environment2.yml    <- detailed environment file that contains specific versions used for this project
