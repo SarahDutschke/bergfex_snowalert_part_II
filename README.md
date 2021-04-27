@@ -2,7 +2,6 @@
 Part II of this project focusses on the visualisation of web-scraped data through Tableau.
 
 ![](/screen_shots/dashboard.jpg)
-![](/screen_shots/Tableau_teaser.png)
 
 This repository showcases the visualisation of data obtained and prepared in our part I repository where we web-scraped the Bergfex webpage (mountain sports information webpage) adding snow level information to each activity. It was elaborated by Malwina San José and Sarah Dutschke. 
 We use TableauPublic for creating single plots, dashboards and stories.
@@ -36,16 +35,14 @@ We have created a How-to Tutorial (story) for building a "Trail Selector" Dashbo
  - Formatting charts and dashboard in Tableau.
 
  ### Milestone 2
-We have created project with a statistical analysis of our web-scraped data:
+ We have created project with a statistical analysis of our web-scraped data:
+
  - 
- - 
- - 
- 
 
 Outcomes
 ---------
 As the final outcome of this project, we created two Tableau Public files, accessible here:
-- [How-To Tutorial](https://www.linkedin.com/in/sarah-dutschke/) 
+- [How-To Tutorial 'Trail Selector'](https://www.linkedin.com/in/sarah-dutschke/) 
 - [Simple Stats](https://www.linkedin.com/in/malwina-san-josé/)
 
 How-To Tutorial
@@ -75,14 +72,12 @@ The libraries required to run this product are the following (details in environ
   - ipykernel
   - pandas
 
-XXX to update
-  
   
 Repository Structure
 ------------
     ├── README.md           <- top-level README file for anybody interested in this project
     ├── data                <- csv file, created based part I of the [project](https://github.com/SarahDutschke/bergfex_snow_alert_part_I)
     ├── notebooks           <- notebook, needed for the data preparation in Milestone 1
-    ├── screen_shots	   <- screenshots of the Tableau workbooks
+    ├── screen_shots	  <- screenshots of the Tableau workbooks
     ├── environment.yml     <- environment file that lists the channels and dependencies needed for this project
     ├── environment2.yml    <- detailed environment file that contains specific versions used for this project

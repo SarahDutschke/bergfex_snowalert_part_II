@@ -1,0 +1,8 @@
+name: bergfex_II
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+prefix: /opt/anaconda3/envs/bergfex_II
