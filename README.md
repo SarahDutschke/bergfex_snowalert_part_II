@@ -42,7 +42,7 @@ We have created a How-to Tutorial (story) for building a "Trail Selector" Dashbo
 Outcomes
 ---------
 As the final outcome of this project, we created two Tableau Public files, accessible here:
-- [How-To Tutorial 'Trail Selector'](https://www.linkedin.com/in/sarah-dutschke/) 
+- [How-To Tutorial 'Trail Selector'](https://public.tableau.com/profile/sarahd8102#!/vizhome/Bergfex_II_Final/How-tostory?publish=yes) 
 - [Simple Stats](https://www.linkedin.com/in/malwina-san-josé/)
 
 How-To Tutorial
